@@ -6,7 +6,7 @@ public class B_2747 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[] dp = new int[45];
+        int[] dp = new int[46];
         dp[0] = 0;
         dp[1] = 1;
 
